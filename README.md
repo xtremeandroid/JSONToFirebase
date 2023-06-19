@@ -1,12 +1,15 @@
 # JSONToFirebase
-Automate Importing Data to Firestore
+#### Automate Importing Data to Firestore
 
-Thanks To Plaintext Article:
+#### Thanks to this Amazing Article!! :
 https://javascript.plainenglish.io/automate-importing-data-to-firestore-836b0a2cdcfd
 
-Important File :
-data.json : Contains the data you want to push.
-service.json : service account JSON File you got after creating firebase service account.
+#### Files Description :
+* data.json : Contains the data you want to push.
+* service.json : service account JSON File you got after creating firebase service account.
+* index.js : NodeJS script to automate data insertion.
+
+### How to Use This? :
 
 ```bash
 git clone https:github.com/xtremeandroid/JSONToFirebase
