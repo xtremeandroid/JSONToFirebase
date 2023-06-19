@@ -52,6 +52,9 @@ CLICK on Generate Private Key , It will download the JSON File, Rename it to ser
 #### Data :
 ![Code_gG0TlMmw6F](https://github.com/xtremeandroid/JSONToFirebase/assets/62198074/e29c2e2f-a3ff-443b-bcdd-f6b979648fd4)
 
+### Running the Script :
+![WindowsTerminal_hzprp4yip2](https://github.com/xtremeandroid/JSONToFirebase/assets/62198074/ca81177c-8ac2-4563-98fb-905c05800baf)
+
 #### DataBase After Inserting
 ![firefox_A1tfxbXlxJ](https://github.com/xtremeandroid/JSONToFirebase/assets/62198074/92d21826-0696-445f-a6d1-bcf4f08667fe)
 
