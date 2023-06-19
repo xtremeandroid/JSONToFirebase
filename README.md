@@ -45,7 +45,7 @@ CLICK on Generate Private Key , It will download the JSON File, Rename it to ser
 ![firefox_SlXi0NtGHK](https://github.com/xtremeandroid/JSONToFirebase/assets/62198074/26de44ba-19f8-4d2d-be78-dfbb9187f2d4)
 
 'databaseURL': 'https://xxxxx.firebaseio.com'
-(replace the xx part with datbase name)
+(replace the xx part with database name)
 
 ### Example
 
