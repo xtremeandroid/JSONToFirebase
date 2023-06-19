@@ -34,13 +34,13 @@ node index.js
 
 ### TIPS:
 
-### WHERE TO GET service.json File ?
+#### WHERE TO GET service.json File ?
 
 ![firefox_xcyPe7U4X4](https://github.com/xtremeandroid/JSONToFirebase/assets/62198074/589f822d-fe15-4120-a0f5-ad9b3917052c)
 
 CLICK on Generate Private Key , It will download the JSON File, Rename it to service.json and copy it to the root directory
 
-### WHERE TO GET databaseURL?
+#### WHERE TO GET databaseURL?
 
 ![firefox_SlXi0NtGHK](https://github.com/xtremeandroid/JSONToFirebase/assets/62198074/26de44ba-19f8-4d2d-be78-dfbb9187f2d4)
 
@@ -52,7 +52,7 @@ CLICK on Generate Private Key , It will download the JSON File, Rename it to ser
 #### Data :
 ![Code_gG0TlMmw6F](https://github.com/xtremeandroid/JSONToFirebase/assets/62198074/e29c2e2f-a3ff-443b-bcdd-f6b979648fd4)
 
-### Running the Script :
+#### Running the Script :
 ![WindowsTerminal_hzprp4yip2](https://github.com/xtremeandroid/JSONToFirebase/assets/62198074/ca81177c-8ac2-4563-98fb-905c05800baf)
 
 #### DataBase After Inserting
