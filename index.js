@@ -1,11 +1,11 @@
 const admin = require("./node_modules/firebase-admin");
 const serviceFile = require("./service.json"); //name of file downloaded from firebase
 const data = require("./data.json"); // name of file that contains data to be uploaded
-const collectionKey = "movies"; //name of the collection
+const collectionKey = "movies"; // replace with your name of the collection
 
 admin.initializeApp({
   credential: admin.credential.cert(serviceFile),
-  databaseURL: "https://"//DataBase Name Here//".firebaseio.com", //find it from your firebase account
+  databaseURL: "https://xxxxx.firebaseio.com/", //replace xxxxx with your database name , can be found in firebase.
 });
 
 const firestore = admin.firestore();
